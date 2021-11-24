@@ -1,7 +1,7 @@
 ## Inháí, Flávio Augusto ás ordens!! 👋
 
 - 🔭 Sendo FullStack na T.I e na Vida 
-- 🌱 Estudando React
+- 🌱 Estudando Typescrit e Flutter
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">

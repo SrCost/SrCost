@@ -1,8 +1,8 @@
 ## Inháí, Flávio Augusto ás ordens!! 👋
 
-- 🔭 Sendo FullStack na T.I e na Vida 
-- 🌱 Estudando Typescrit e Flutter
-- 😄 Pronouns: Ele/Dele
+📚 Dev Backend...
+⚡ Codando em Java + Spring
+✅ Bootcamp FullStack Generation Brasil.
 
 <div align="center">
   <a href="https://github.com/srcost">

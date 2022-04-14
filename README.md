@@ -2,7 +2,7 @@
 
 📚 Dev Backend...     
 ⚡ Codando em Java + Spring  
-✅ Bootcamp FullStack Generation Brasil.
+✅ Bootcamp FullStack Generation Brasil & MJV.
 
 <div align="center">
   <a href="https://github.com/srcost">

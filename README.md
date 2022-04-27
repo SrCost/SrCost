@@ -1,8 +1,17 @@
-## Inháí, Flávio Augusto ás ordens!! 👋
+## Hello there, Flávio ás ordens!! 👋
 
-📚 Dev Backend...     
-⚡ Codando em Java + Spring  
-✅ Bootcamp FullStack Generation Brasil & MJV.
+## Public information
+
+Loading.
+
+## Detailed information
+
+* **Name**: Flávio Costa
+* **Age**: 26
+* **Living in**: São Paulo - SP, Brazil
+* **Stack**: Java - Node - Bootstrap - SQL - CSS
+* **University**: UnicSul
+
 
 <div align="center">
   <a href="https://github.com/srcost">
